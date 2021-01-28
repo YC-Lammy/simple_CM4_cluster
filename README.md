@@ -1,5 +1,5 @@
 # simple_CM4_cluster
-A simple compute module 4 cluster in a 120x120mm form-factor cabable of up to 7 pi.   
+A simple compute module 4 cluster in a 120x120x60mm form-factor cabable of up to 7 pi.   
 
 Each pi can work alone as a 78x58mm SBC.
 
