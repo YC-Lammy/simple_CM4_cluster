@@ -3,7 +3,11 @@ A simple compute module 4 cluster in a 120x120mm form-factor.
 
 Each pi can work alone as a 78x58mm SBC
 
-requirement: kiCad version 5.99 or above
+the last six pin on the standard 40 way header has been removed on the board, include GPIO 16,19,20,21,26 and GND
+
+SPI, I2C, UART are not affected, a standard HAT device can still be used.
+
+Requirement: kiCad version 5.99 or above
 
 <img width="640" alt="3D Viewer 1_28_2021 6_44_57 PM" src="https://user-images.githubusercontent.com/76801636/106143735-29e4db00-61ae-11eb-9fa5-72317b532141.png">
 
