@@ -1,8 +1,5 @@
 # simple_CM4_cluster
-A simple compute module 4 cluster in a 120x120mm form-factor. 
-
-Each pi can work alone as a 78x58mm SBC 
-
+A simple compute module 4 cluster in a 120x120mm form-factor.   Each pi can work alone as a 78x58mm SBC.
 
 ports: 4 usb2.0, usb-c OTG ,2 micro HDMI, CSI, DSI, micro SD and headers
 
@@ -10,6 +7,7 @@ The last six pin on the standard 40 way header has been removed on the board, in
 
 SPI, I2C, UART are not affected, a standard HAT device can still be used.
 
+the main board is powered by +12v through barrel jack or 4/8 pin PSU power. When the pi is alone, it could be powered through USB-A or pin headers
 
 Requirement: kiCad version 5.99 or above
 
