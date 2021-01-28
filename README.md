@@ -1,7 +1,7 @@
 # simple_CM4_cluster
 A simple compute module 4 cluster in a 120x120mm form-factor.   Each pi can work alone as a 78x58mm SBC.
 
-ports: 4 usb2.0, usb-c OTG ,2 micro HDMI, CSI, DSI, micro SD and headers
+ports: 4 usb2.0, usb-c OTG, PCIE, 2 micro HDMI, CSI, DSI, micro SD and headers
 
 The last six pin on the standard 40 way header has been removed on the board, include GPIO 16,19,20,21,26 and GND
 
